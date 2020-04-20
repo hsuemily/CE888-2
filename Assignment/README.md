@@ -1,4 +1,4 @@
-## Assignment 1 Project 2
+## Assignment - Project 2
 
 ### Dataset:
 1. Titanic (61.6%): [https://www.kaggle.com/c/titanic/overview](https://www.kaggle.com/c/titanic/overview)
